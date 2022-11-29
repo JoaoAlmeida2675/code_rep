@@ -1,2 +1,1 @@
-# dave_rep
-My repository is free to use.
+# My repository is free to use.
