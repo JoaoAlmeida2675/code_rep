@@ -1,0 +1,16 @@
+#!/bin/bash
+
+servers=$(cat servers.txt)
+echo -n "Enter the username: "
+read nameecho -n "Enter the user id: "
+read uid
+
+for iin $servers; do
+  echo $i
+  ssh$i"sudouseradd-m -u $uid$name"
+  if [ $? -eq 0 ]; then
+    echo "User $name added on $i"
+  else
+    echo "Error on $i"
+  fi
+done
