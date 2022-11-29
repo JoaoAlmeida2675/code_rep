@@ -1,4 +1,5 @@
 # My repository is free to use.
 
-Read this !!
-On Ip_search_in_database, you need to change in line 7 "YOUR_LOG" for your log_file.txt.
+Some snips of code i made.
+Still a noob, but motivated to learn more.
+Use the code if you want. No credit needed.
