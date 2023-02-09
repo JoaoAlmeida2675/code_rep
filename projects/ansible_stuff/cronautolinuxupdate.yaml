@@ -1,0 +1,13 @@
+---
+- name: Auto updates and upgrades on Linux machines
+  hosts: all
+  become: yes
+
+  tasks:
+  - name: Create cron job for auto updates and upgrades
+    cron:
+      name: "Auto updates and upgrades"
+      minute: 45
+      hour: 23
+      day: "*"
+      job: "apt-get update && apt-get upgrade -y"
