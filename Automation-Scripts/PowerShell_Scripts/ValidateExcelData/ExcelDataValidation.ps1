@@ -10,6 +10,7 @@
     License        : See the LICENSE.md file for details.
 #>
 
+
 # Function to get the column index from the column letter (A=1, B=2, etc.) - supports columns with multiple letters (e.g., AA, AB)
 function Get-ColumnIndexFromLetter {
     param (
