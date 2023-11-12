@@ -8,7 +8,7 @@ Before running the script, make sure to import the `ImportExcel` module:
 Import-Module ImportExcel
 
 
-##Functions
+## Functions
 
 1. Get-ColumnIndexFromLetter
 Description:
