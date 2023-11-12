@@ -9,7 +9,9 @@ Before running the script, make sure to import the `ImportExcel` module:
 Import-Module ImportExcel
 
 
+
 Functions
+
 
 1. Get-ColumnIndexFromLetter
 Description:
@@ -20,12 +22,14 @@ Supports columns with multiple letters (e.g., AA, AB).
 Returns the column index.
 
 
+
 2. Open and Load the Excel File
 Description:
 
 Creates an instance of Excel.
 Makes Excel visible.
 Opens an Excel workbook located at the specified path.
+
 
 
 3. Select the Sheet and Specify the Columns to Check
