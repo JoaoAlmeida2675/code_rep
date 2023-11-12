@@ -23,7 +23,7 @@ This PowerShell script checks for empty cells in specified columns of an Excel s
 8. The script will display a message indicating whether everything is OK or if there are missing data in the columns.
 
 ## License
-This script is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+See the [LICENSE.md](LICENSE.md) file for details.
 
 ## Author
 - Name: João Pedro Almeida
