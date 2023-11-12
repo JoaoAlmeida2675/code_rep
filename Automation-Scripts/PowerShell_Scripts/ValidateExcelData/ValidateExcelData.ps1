@@ -7,7 +7,7 @@
     File Name      : ExcelDataValidation.ps1
     Prerequisite   : Microsoft Excel needs to be installed on the system and the Excel Import for PowerShell.
     Author         : João Pedro Almeida
-    License        : This script is licensed under the MIT License - see the LICENSE.md file for details.
+    License        : See the LICENSE.md file for details.
 #>
 
 # Function to get the column index from the column letter (A=1, B=2, etc.) - supports columns with multiple letters (e.g., AA, AB)
