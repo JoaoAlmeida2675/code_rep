@@ -5,7 +5,7 @@ This PowerShell script checks for empty cells in specified columns of an Excel s
 ## Prerequisites
 Before running the script, make sure to import the `ImportExcel` module:
 
-```powershell
+
 Import-Module ImportExcel
 
 
