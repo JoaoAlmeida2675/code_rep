@@ -1,7 +1,7 @@
 # PowerShell Script: ExcelDataValidation
 
-**Note: To use the script, run the code "Import-Module ImportExcel" first.**
-**      This already have the columns and the row selected, don´t forget to change it also.**
+**Note: To use the script, run the code "Import-Module ImportExcel" first.
+        This already have the columns and the row selected, don´t forget to change it also.**
 
 ## 1. Function Get-ColumnIndexFromLetter:
 - Receives a letter or set of letters as a parameter.
